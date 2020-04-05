@@ -1,0 +1,22 @@
+{
+  "name": "first-package-npm",
+  "version": "1.0.0",
+  "description": "Mi First Package for NPM",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "package"
+  ],
+  "author": "Bryan Condor",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^6.2.2",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {}
+}
