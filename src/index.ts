@@ -1,5 +1,5 @@
 function sumar(numbers: number[]) {
-    return numbers?.reduce((p, c) => p + c) || 0;
+    return numbers?.map(n => +n)?.reduce((p, c) => p + c) || 0;
 }
 
 function restar(num1: number, num2: number) {

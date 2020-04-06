@@ -1,6 +1,10 @@
 # first-package-npm
 Es pequeño modulo de prueba que continue funciones para operaciones matemáticas básicas
 
+### 1.0.11
+- se quitar la propiedades `repository` del package.json , porque generar errores al quere usar la libreria
+- se corrigen funcion sumar, antes concatenaba los valores ahora suma de forma correcta.
+
 ### 1.0.8
 - fix funcion sumar y se agregar repositorio github
 
