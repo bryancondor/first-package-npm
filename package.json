@@ -1,8 +1,8 @@
 {
   "name": "first-package-npm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Mi First Package for NPM",
-  "private": true,
+  "main": "dist/matematica.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

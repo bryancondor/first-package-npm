@@ -1,0 +1,12 @@
+.git
+.gitignore
+node_modules/**/*
+
+index.html
+package-lock.json
+package.json
+tsconfig.json
+webpack.config.js
+
+prueba
+src
