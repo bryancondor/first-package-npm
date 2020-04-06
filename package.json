@@ -1,8 +1,9 @@
 {
   "name": "first-package-npm",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "Mi First Package for NPM",
-  "main": "dist/matematica.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,3 +1,9 @@
-import { sumar } from './library';
+function sumar(numbers: Array<number>) {
+    return numbers?.reduce((p, c) => p + c) || 0;
+}
 
-console.log(sumar([100, 200, 300]));
+function restar(num1: number, num2: number) {
+    return num1 - num2;
+}
+
+export { sumar, restar };
