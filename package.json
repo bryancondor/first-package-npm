@@ -1,6 +1,6 @@
 {
   "name": "first-package-npm",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "description": "Mi First Package for NPM",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,16 +12,11 @@
     "package"
   ],
   "author": "Bryan Condor",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/BRYANALX/first-package-npm.git"
-  },
   "license": "MIT",
   "devDependencies": {
     "ts-loader": "^6.2.2",
     "typescript": "^3.8.3",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
-  },
-  "dependencies": {}
+  }
 }
