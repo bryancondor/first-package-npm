@@ -1,4 +1,4 @@
-function sumar(numbers: Array<number>) {
+function sumar(numbers: number[]) {
     return numbers?.reduce((p, c) => p + c) || 0;
 }
 

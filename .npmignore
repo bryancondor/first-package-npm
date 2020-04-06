@@ -3,10 +3,10 @@
 node_modules/**/*
 
 index.html
-package-lock.json
 package.json
-tsconfig.json
+package-lock.json
 webpack.config.js
+tsconfig.json
 
-prueba
 src
+modulo-vainilla-js
